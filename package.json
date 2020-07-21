@@ -1,0 +1,24 @@
+{
+  "name": "PBC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "chromedriver": "^83.0.0",
+    "puppeteer": "^4.0.0",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "uniqid": "^5.2.0"
+  },
+  "bin": {
+    "dirmanager": "C:\\Users\\Divyanshu Rajora\\Documents\\PBC\\Organisingtool\\organizer.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
